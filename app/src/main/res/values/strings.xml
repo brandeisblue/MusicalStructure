@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+    <string name="main_description">This is the main activty, which is displayed to the user when the app is opened.
+        In this screen, suggestions for new playlists, based on user\'s preference, are displayed.
+    Each button (suggestion1, 2, and 3) takes the user to one of the playlists.
+    It also has a sidebar that lists all of activities, such as account and payment, that users can access.
+    At the bottom of the page, there is a button-bar to play a song.
+    To make the button-bar to work, a media player will have to be implemented.</string>
+    <string name="player_image_button_description">The playlist buttons are used to go back to the previous song,
+    skip to the next song, or play the current song on the playlist.</string>
+    <string name="playlist_suggestion_1">Suggestion 1</string>
+    <string name="playlist_suggestion_2">Suggestion 2</string>
+    <string name="playlist_suggestion_3">Suggestion 3</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="explore">Explore\nNew Music</string>
+    <string name="library">Your Library</string>
+    <string name="setting">Setting</string>
+    <string name="payment">Payment</string>
+</resources>
